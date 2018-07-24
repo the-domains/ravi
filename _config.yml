@@ -1,0 +1,31 @@
+color:
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  brandStrength: 0.829517389414832
+  lightness: 0.14675964857451618
+  saturation: 0.2935800780542195
+  rhythmicContrast: 0.27158916112966835
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: ravi
+layout_spectrum: 0.26161233987659216
+typography_spectrum: 0.06350349052809179
+content: []
+title: Coder
+description: Eat...Code...Sleep...Repeat
+purpose:
+  - type: contact
+    url: 'mailto:ravi.raodasari@gmail.com'
+    label: Contact me
+github: true
+content_rating:
+  adult: false
